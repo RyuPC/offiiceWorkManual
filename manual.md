@@ -20,8 +20,8 @@
 |　通信費 |切手<br> 宅配便料金|
 |消耗品費|文具<br> 台所用品|
 
-![切手](image.png)
-![alt text](kitte.png)
+![切手](image/image.png)
+![alt text](image/kitte.png)
 
 ##電話、来客対応について
 ##ゴミ収集について
